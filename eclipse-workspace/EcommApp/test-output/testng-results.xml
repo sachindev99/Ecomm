@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-12T10:57:36 EDT" name="Default suite" finished-at="2024-08-12T10:57:44 EDT" duration-ms="8899">
+    <groups>
+    </groups>
+    <test started-at="2024-08-12T10:57:36 EDT" name="Default test" finished-at="2024-08-12T10:57:44 EDT" duration-ms="8899">
+      <class name="testcases.EcommAPITest">
+        <test-method signature="ecommTest()[pri:0, instance:testcases.EcommAPITest@3c419631]" started-at="2024-08-12T10:57:36 EDT" name="ecommTest" finished-at="2024-08-12T10:57:44 EDT" duration-ms="8829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ecommTest -->
+      </class> <!-- testcases.EcommAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
